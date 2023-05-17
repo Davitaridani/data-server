@@ -76,6 +76,13 @@
       "hargaBeli": "44000",
       "stok": "23",
       "id": 12
+    },
+    {
+      "nama": "Coling Pad ",
+      "hargaJual": "50000",
+      "hargaBeli": "44000",
+      "stok": "23",
+      "id": 13
     }
   ]
 }
